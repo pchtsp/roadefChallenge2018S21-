@@ -6,4 +6,4 @@ Hybrid heuristic algorithm is implemented in C++.
 
 Compilation is simple, just use the c++11 standard and include pthread library:
 
-g++ src/*.cpp solution_generator/*.cpp algo/*.cpp -o challengeSG -std=c++11 -pthread -O3
+g++ src/roadef2018.cpp solution_generator/make_solutionfile.cpp algo/*.cpp -o challengeSG -std=c++11 -pthread -O3
